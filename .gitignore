@@ -1,0 +1,20 @@
+.DS_Store
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# VuePress 默认临时文件目录
+docs/.vuepress/.temp
+# VuePress 默认缓存目录
+docs/.vuepress/.cache
+# VuePress 默认构建生成的静态文件目录
+docs/.vuepress/dist
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.log
+*.db
