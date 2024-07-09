@@ -1,6 +1,7 @@
+**文章转载自 [github项目Python-Core-50-Courses](https://github.com/jackfrued/Python-Core-50-Courses)**
 ## Python语言基础50课
 
-由于之前发布的 Python 学习项目 [Python-100-Days](https://github.com/jackfrued/Python-100-Days) 对初学者来说上手还是有一定难度，所以花了点之间把原来项目中 Python 语言基础部分单独剥离出来，做成了现在这个名为“Python语言基础50课”的项目。现在这个项目用更为简单通俗的方式重写了原来“Python100天”项目中第1天到第15天的部分，**有删减也有补充**，力求**对初学者更加友好**，也欢迎大家关注这个持续更新中的项目。国内用户如果访问 GitHub 比较慢的话，也可以关注我的知乎号 [Python-Jack](https://www.zhihu.com/people/jackfrued) 上的[“从零开始学Python”](<https://zhuanlan.zhihu.com/c_1216656665569013760>)专栏，两边同步更新。有需要的小伙伴可以关注我在知乎的专栏、文章和回答，当然，也欢迎大家评论、收藏和点赞。如果需要**视频教程**，可以到“B站”上搜索[《Python零基础快速上手》](https://www.bilibili.com/video/BV1FT4y1R7sz)。
+文章出自`Python-Jack` 大神, 大家可以关注他的知乎号 [Python-Jack](https://www.zhihu.com/people/jackfrued) 上的[“从零开始学Python”](<https://zhuanlan.zhihu.com/c_1216656665569013760>)专栏，**视频教程**，可以到“B站”上搜索[《Python零基础快速上手》](https://www.bilibili.com/video/BV1FT4y1R7sz)。
 
 
 
@@ -13,12 +14,6 @@
 151.101.184.133    cloud.githubusercontent.com
 151.101.184.133    camo.githubusercontent.com
 ```
-
-### 视频资源
-
-视频在抖音和B站都可以找到，有兴趣的小伙伴可以关注我的抖音或B站账号，最近刚刚起号，还希望大家多多支持，非常感谢！
-
-
 
 ### 文件资源
 
