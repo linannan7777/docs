@@ -4,6 +4,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 import { navbar } from './configs/navbar'
 import { sidebar } from './configs/sidebar'
 export default defineUserConfig({
+  base: '/docs/',
   lang: 'zh-CN',
   title: '技术文档',
   description: '温故而知新',
