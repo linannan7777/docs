@@ -34,10 +34,5 @@ export default defineUserConfig({
       },
     },
   }),
-  bundler: viteBundler(),
-  vite: {
-    build: {
-      assetsInclude: ['**/*.png', '**/*.jpg', '**/*.svg'], // 添加这一行来包含所有的.PNG文件作为静态资源
-    },
-  }
+  bundler: viteBundler()
 })
