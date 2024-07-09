@@ -34,6 +34,6 @@ export default defineUserConfig({
       },
     },
   }),
-
+  assetsInclude: ['**/*.PNG'],
   bundler: viteBundler(),
 })

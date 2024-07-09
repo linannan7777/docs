@@ -2,7 +2,6 @@ import path from 'node:path'
 import fs from 'node:fs'
 export const sidebarList = (dicPath, textName) => {
   const files = fs.readdirSync(path.join(__dirname, '../../', dicPath))
-  console.log(files)
   const mdFiles = files.filter(file => file.endsWith('.md'))
   const children = mdFiles.map(file => {
     // 获取文件名
