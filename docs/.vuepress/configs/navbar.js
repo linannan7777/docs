@@ -1,5 +1,14 @@
 export const navbar = [
   {
+    text: '前端',
+    children: [
+      {
+        text: 'vite',
+        link: '/frontend/vite/',
+      }
+    ],
+  },
+  {
     text: 'python',
     children: [
       {
