@@ -20,5 +20,14 @@ export const navbar = [
         link: '/python/Python-100-Days/',
       }
     ],
+  },
+  {
+    text: '工具',
+    children: [
+      {
+        text: 'git',
+        link: '/tools/git/01_版本控制',
+      }
+    ],
   }
 ]
