@@ -27,7 +27,15 @@ export const navbar = [
       {
         text: 'git',
         link: '/tools/git/01_版本控制',
+      },
+      {
+        text: '其他',
+        link: '/tools/others/',
       }
     ],
+  },
+  {
+    text: '面试题',
+    link: '/interview/'
   }
 ]
