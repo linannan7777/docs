@@ -2,10 +2,8 @@ export const navbar = [
   {
     text: '前端',
     children: [
-      {
-        text: 'vite',
-        link: '/frontend/vite/',
-      }
+      { text: 'vite', link: '/frontend/vite/' },
+      { text: 'electron', link: '/frontend/electron/' }
     ],
   },
   {
@@ -24,10 +22,8 @@ export const navbar = [
   {
     text: '工具',
     children: [
-      {
-        text: 'git',
-        link: '/tools/git/01_版本控制',
-      },
+      { text: 'git', link: '/tools/git/01_版本控制'},
+      { text: 'npm', link: '/tools/npm/用npmscript打造超溜的前端工作流'},
       {
         text: '其他',
         link: '/tools/others/',
