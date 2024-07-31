@@ -3,7 +3,10 @@ export const navbar = [
     text: '前端',
     children: [
       { text: 'vite', link: '/frontend/vite/' },
-      { text: 'electron', link: '/frontend/electron/' }
+      { text: 'electron', link: '/frontend/electron/' },
+      { text: 'node模块源码解析', link: '/frontend/node/' },
+      // { text: '前端基础建设与架构', link: '/frontend/construction/导读：前端技术发展回顾和架构升级之路.md' }
+      
     ],
   },
   {
