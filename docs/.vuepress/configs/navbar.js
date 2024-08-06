@@ -5,6 +5,7 @@ export const navbar = [
       { text: 'vite', link: '/frontend/vite/' },
       { text: 'electron', link: '/frontend/electron/' },
       { text: 'node模块源码解析', link: '/frontend/node/' },
+      { text: 'Webpack5 教程', link: '/frontend/webpack5/' },
       // { text: '前端基础建设与架构', link: '/frontend/construction/导读：前端技术发展回顾和架构升级之路.md' }
       
     ],
