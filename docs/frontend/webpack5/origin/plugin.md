@@ -78,7 +78,7 @@ compilation 对象代表一次资源的构建，compilation 实例能够访问�
 
 ### 生命周期简图
 
-![Webpack 插件生命周期](/imgs/source/plugin.jpg)
+![Webpack 插件生命周期](../imgs/source/plugin.jpg)
 
 ## 开发一个插件
 
@@ -222,7 +222,7 @@ For help, see: https://nodejs.org/en/docs/inspecto
 
 此时控制台会显示一个绿色的图标
 
-![调试控制台](/imgs/source/debug.png)
+![调试控制台](../imgs/source/debug.png)
 
 4. 点击绿色的图标进入调试模式。
 
